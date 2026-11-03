@@ -1,0 +1,19 @@
+{
+  "name": "dev-zcode-ponytail-989d7c7f",
+  "plugins": [
+    {
+      "name": "ponytail",
+      "source": "./ponytail",
+      "version": "0.1.0",
+      "description": "Lazy senior dev mode for ZCode, ported from DietrichGebert/ponytail 5.3.3 (MIT). The best code is the code you never wrote: YAGNI, reuse first, stdlib first, no unrequested abstractions. Always-on ruleset injection with a codebase map, plus /ponytail-review, /ponytail-audit, /ponytail-debt, /ponytail-gain and /ponytail-help.",
+      "displayName": "Ponytail — Lazy Senior Dev",
+      "displayName_i18n": {
+        "zh-CN": "Ponytail 懒人高级开发模式"
+      },
+      "description_i18n": {
+        "zh-CN": "防过度工程化的懒人高级开发模式：最少代码解决问题，先复用已有代码，防止重复造轮子。移植自 DietrichGebert/ponytail (MIT)。"
+      },
+      "category": "productivity"
+    }
+  ]
+}

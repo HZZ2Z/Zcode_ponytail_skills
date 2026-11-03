@@ -1,0 +1,12 @@
+{
+  "name": "ponytail",
+  "version": "0.1.0",
+  "description": "Lazy senior dev mode for ZCode, ported from DietrichGebert/ponytail 5.3.3 (MIT). The best code is the code you never wrote: YAGNI, reuse first, stdlib first, no unrequested abstractions. Always-on ruleset injection with a codebase map, plus /ponytail-review, /ponytail-audit, /ponytail-debt, /ponytail-gain and /ponytail-help.",
+  "author": {
+    "name": "Dietrich Gebert (original ponytail), ZCode port"
+  },
+  "license": "MIT",
+  "skills": "skills",
+  "commands": "commands",
+  "hooks": "hooks/hooks.json"
+}
